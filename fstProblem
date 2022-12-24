@@ -1,0 +1,10 @@
+my first problem is done 
+
+// Create a variable name to store your name
+// Create a variable age to store your age
+// Print the values stored in the variable on one line followed by the type of the variable in the next line
+let Name = "Ritesh salve";
+let age = 26;
+console.log(Name,age);
+console.log(typeof(Name));
+console.log(typeof age);
